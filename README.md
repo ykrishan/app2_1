@@ -1,1 +1,1 @@
-# this thi my 2nd app test application
+# this is my 2nd app test application

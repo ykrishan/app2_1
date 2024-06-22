@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26973e78-42e0-4e5f-8cca-887b99fa623f" name="Changes" comment="" />
+    <list default="true" id="26973e78-42e0-4e5f-8cca-887b99fa623f" name="Changes" comment="initial commit">
+      <change afterPath="$PROJECT_DIR$/.idea/App2_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/12.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/topics.csv" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +46,11 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/krishankrishan/Desktop/HOME/Udemy/app2/App2_1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -43,8 +71,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719052579887</updated>
-      <workItem from="1719052581318" duration="1000" />
+      <workItem from="1719052581318" duration="310000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1719052851358</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1719052851358</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
