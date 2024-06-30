@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="26973e78-42e0-4e5f-8cca-887b99fa623f" name="Changes" comment="Add contect me page on website">
-      <change afterPath="$PROJECT_DIR$/Send_email.py" afterDir="false" />
+    <list default="true" id="26973e78-42e0-4e5f-8cca-887b99fa623f" name="Changes" comment="Send mails using  the forms">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Home.py" beforeDir="false" afterPath="$PROJECT_DIR$/Home.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/contact_Us.py" beforeDir="false" afterPath="$PROJECT_DIR$/pages/contact_Us.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -164,7 +164,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1719052579887</updated>
-      <workItem from="1719052581318" duration="17383000" />
+      <workItem from="1719052581318" duration="20547000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -198,7 +198,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719701867043</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Send mails using  the forms">
+      <option name="closed" value="true" />
+      <created>1719719015348</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719719015348</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -218,11 +226,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="Add contect me page on website" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add contect me page on website" />
+    <MESSAGE value="Send mails using  the forms" />
+    <option name="LAST_COMMIT_MESSAGE" value="Send mails using  the forms" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/App2_1$Send_email.coverage" NAME="Send_email Coverage Results" MODIFIED="1719704374572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/App2_1$contact_Us.coverage" NAME="contact_Us Coverage Results" MODIFIED="1719707808532" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pages" />
-    <SUITE FILE_PATH="coverage/App2_1$main.coverage" NAME="Home Coverage Results" MODIFIED="1719707813087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/App2_1$main.coverage" NAME="Home Coverage Results" MODIFIED="1719721706703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

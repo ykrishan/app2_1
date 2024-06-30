@@ -18,6 +18,7 @@ st.header("Our Team")
 
 col1, col2, col3 = st.columns(3)
 dt = pd.read_csv("data-2.csv")
+
 with col1:
     for index, row in dt[:4].iterrows():
         st.subheader(f"{row['first name'].title()} {row['last name'].title()}")
